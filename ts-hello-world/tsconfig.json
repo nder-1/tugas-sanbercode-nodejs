@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",                           /* Menentukan versi ECMAScript target. */
+    "module": "commonjs",                      /* Menentukan sistem modul. */
+    "strict": true,                            /* Mengaktifkan semua pemeriksaan tipe yang ketat. */
+    "outDir": "./dist",                        /* Output direktori untuk file JavaScript yang dikompilasi. */
+    "rootDir": "./src",                        /* Direktori root dari file sumber TypeScript. */
+    "esModuleInterop": true,                   /* Menambahkan dukungan interop ES Modules ke CommonJS. */
+    "skipLibCheck": true                       /* Melewati pemeriksaan tipe file deklarasi. */
+  }
+}
