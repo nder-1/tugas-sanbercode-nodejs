@@ -1,3 +1,5 @@
+jalankan node index.js di terminal
+
 1. GET /categories: Mengembalikan daftar semua kategori produk.
 2. GET /categories/:id: Mengembalikan detail kategori berdasarkan ID.
 3. POST /categories: Menambahkan kategori baru.
